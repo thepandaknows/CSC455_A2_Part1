@@ -85,5 +85,4 @@ namespace ConsoleCalculator.Tests
         }
     }
 }
-// testing testing
 
