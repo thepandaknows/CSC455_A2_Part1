@@ -70,7 +70,7 @@ namespace ConsoleCalculator.Tests
 
         public void DivideTest() 
         {
-            double num1 = 5, num2 = 6;
+            double num1 = 15, num2 = 3;
             var calc = new ConsoleCalculator.Calculator(num1, num2);
             Assert.IsTrue(calc.Divide() == num1 / num2);
         }
@@ -79,7 +79,7 @@ namespace ConsoleCalculator.Tests
 
         public void DivideTestParam() 
         {
-            double num1 = 5, num2 = 6;
+            double num1 = 15, num2 = 3;
             double result = new ConsoleCalculator.Calculator.Divide(num1, num2);
             Assert.IsFalse(result == 0);
         }
