@@ -1,0 +1,15 @@
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/LearnMyCalculatorApp/bin/Debug/net7.0/LearnMyCalculatorApp
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/LearnMyCalculatorApp/bin/Debug/net7.0/LearnMyCalculatorApp.deps.json
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/LearnMyCalculatorApp/bin/Debug/net7.0/LearnMyCalculatorApp.runtimeconfig.json
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/LearnMyCalculatorApp/bin/Debug/net7.0/LearnMyCalculatorApp.dll
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/LearnMyCalculatorApp/bin/Debug/net7.0/LearnMyCalculatorApp.pdb
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/LearnMyCalculatorApp/obj/Debug/net7.0/LearnMyCalculatorApp.csproj.AssemblyReference.cache
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/LearnMyCalculatorApp/obj/Debug/net7.0/LearnMyCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/LearnMyCalculatorApp/obj/Debug/net7.0/LearnMyCalculatorApp.AssemblyInfoInputs.cache
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/LearnMyCalculatorApp/obj/Debug/net7.0/LearnMyCalculatorApp.AssemblyInfo.cs
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/LearnMyCalculatorApp/obj/Debug/net7.0/LearnMyCalculatorApp.csproj.CoreCompileInputs.cache
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/LearnMyCalculatorApp/obj/Debug/net7.0/LearnMyCalculatorApp.dll
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/LearnMyCalculatorApp/obj/Debug/net7.0/refint/LearnMyCalculatorApp.dll
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/LearnMyCalculatorApp/obj/Debug/net7.0/LearnMyCalculatorApp.pdb
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/LearnMyCalculatorApp/obj/Debug/net7.0/LearnMyCalculatorApp.genruntimeconfig.cache
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/LearnMyCalculatorApp/obj/Debug/net7.0/ref/LearnMyCalculatorApp.dll

@@ -1,0 +1,5 @@
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/LearnMyCalculatorApp.Tests/obj/Debug/net7.0/LearnMyCalculatorApp.Tests.csproj.AssemblyReference.cache
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/LearnMyCalculatorApp.Tests/obj/Debug/net7.0/LearnMyCalculatorApp.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/LearnMyCalculatorApp.Tests/obj/Debug/net7.0/LearnMyCalculatorApp.Tests.AssemblyInfoInputs.cache
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/LearnMyCalculatorApp.Tests/obj/Debug/net7.0/LearnMyCalculatorApp.Tests.AssemblyInfo.cs
+/Users/amandamorgan/Desktop/DSU 2024 Spring/CSC455 SW Dev Environments/A2/Code/LearnMyCalculatorApp.Tests/obj/Debug/net7.0/LearnMyCalculatorApp.Tests.csproj.CoreCompileInputs.cache
